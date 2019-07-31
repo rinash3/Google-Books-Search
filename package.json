@@ -19,7 +19,17 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
-    "express": "^4.16.3",
-    "if-env": "^1.0.4"
-  }
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.6.7",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinash3/Google-Books-Search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rinash3/Google-Books-Search/issues"
+  },
+  "homepage": "https://github.com/rinash3/Google-Books-Search#readme"
 }
